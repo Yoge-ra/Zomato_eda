@@ -1,6 +1,3 @@
-Sure, I can help you craft a README file for your GitHub repository. Here's a template you can use:
-
----
 
 # Zomato EDA
 
