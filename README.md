@@ -40,7 +40,7 @@ To get started with the analysis, follow these steps:
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.12
 - Jupyter Notebook
 - Pandas
 - NumPy
